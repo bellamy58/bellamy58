@@ -41,5 +41,8 @@ My continuous learning journey on TryHackMe:
 <a href="https://tryhackme.com/p/bellamy58">
   <img src="https://img.shields.io/badge/TryHackMe-C21325?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
 </a>
+<a href="https://www.linkedin.com/in/bekir-kiper-cyber-security-engineer/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+</a>
 </p>
 
