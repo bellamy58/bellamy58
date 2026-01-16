@@ -21,7 +21,7 @@ My continuous learning journey on TryHackMe:
   <img src="https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank">
 </a>
 <a href="https://tryhackme.com/p/bellamy58">
-  <img src="https://img.shields.io/badge/Rooms%20Completed-156-green?style=for-the-badge" alt="TryHackMe Rooms">
+  <img src="https://img.shields.io/badge/Rooms%20Completed-164-green?style=for-the-badge" alt="TryHackMe Rooms">
 </a>
 
 ---
